@@ -7,6 +7,7 @@ public class BasicJava {
 			if (i == 5)
 				break;
 			System.out.println(i);
+			System.out.println("welcome");
 		}
 		
 	}
