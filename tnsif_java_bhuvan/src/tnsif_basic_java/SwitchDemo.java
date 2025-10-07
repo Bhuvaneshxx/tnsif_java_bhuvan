@@ -4,7 +4,7 @@ public class SwitchDemo {
 
 	public static void main(String[] args) {
 
-		char x = 'l';
+		char x = 'd';
 		switch (x) 
 		{
 		case 'l' : 
